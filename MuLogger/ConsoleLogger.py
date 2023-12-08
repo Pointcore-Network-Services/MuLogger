@@ -5,8 +5,6 @@ from io import TextIOWrapper
 
 # TODO: Buffer log messages and write them to file in a separate thread
 
-# TODO: TESTING. REMOVE THIS LINE.
-
 LOG_LEVEL_DEBUG = 0x00
 LOG_LEVEL_INFO = 0x01
 LOG_LEVEL_VERBOSE = 0x02
